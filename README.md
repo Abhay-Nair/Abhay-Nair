@@ -54,15 +54,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay-Nair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Nair&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhay-Nair&theme=tokyonight&hide_border=true)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhay-Nair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Nair&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhay-Nair&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ## 🌟 Featured Projects
 
@@ -90,13 +90,6 @@ Full-stack MERN application for creating, sharing, and managing personal memory 
 
 [![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhay-Nair&theme=tokyo-night&hide_border=true)](https://github.com/Abhay-Nair)
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Abhay-Nair&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
 
 ## 💼 What I'm Working On
 
